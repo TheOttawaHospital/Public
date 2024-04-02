@@ -1,2 +1,2 @@
 # Public
-Public repository for external access to no risk assets
+Public repository belonging to The Ottawa Hospital for external access to no risk assets
